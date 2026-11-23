@@ -1,5 +1,5 @@
 {
-  "last_updated": "23 Nov 2026, 03:54 PM",
+  "last_updated": "23 Nov 2026, 06:46 PM",
   "videos": [
     {
       "id": "6TdfhyR48as",
@@ -8,7 +8,7 @@
       "title": "24kGoldn - Mood ❤️ ( FreeFire Highlights )",
       "thumbnail": "https://i.ytimg.com/vi/6TdfhyR48as/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/6TdfhyR48as?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
+      "added_at": "2026-11-23 18:46"
     },
     {
       "id": "skfF8FcUXhY",
@@ -17,7 +17,7 @@
       "title": "Tavenchi - Spotlight 🔥 FreeFire Highlights",
       "thumbnail": "https://i.ytimg.com/vi/skfF8FcUXhY/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/skfF8FcUXhY?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
+      "added_at": "2026-11-23 18:46"
     },
     {
       "id": "f0rit83VEbo",
@@ -26,7 +26,7 @@
       "title": "24k Goldn - Mood (MODE RUOK FF, Apelapato999) 🇧🇷❤🇹🇭 (M1014,M1887,M14,SVD,Desert Eagle) 👽🎯",
       "thumbnail": "https://i.ytimg.com/vi/f0rit83VEbo/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/f0rit83VEbo?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
+      "added_at": "2026-11-23 18:46"
     },
     {
       "id": "LlDa1EAemhg",
@@ -35,7 +35,16 @@
       "title": "53 Kills 💪 GROZA X+MAG-7 🔥99% Headshot Rate ⚡| Solo Vs Squad Full Gameplay | FreeFire!",
       "thumbnail": "https://i.ytimg.com/vi/LlDa1EAemhg/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/LlDa1EAemhg?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "T01vb4Odi_A",
+      "platform": "youtube",
+      "type": "video",
+      "title": "GOODBYE ⚡ | 5 Fingers + Gyroscope | PUBG MOBILE Montage",
+      "thumbnail": "https://i.ytimg.com/vi/T01vb4Odi_A/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/T01vb4Odi_A?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
     },
     {
       "id": "gZEnK3aLvSg",
@@ -92,15 +101,6 @@
       "added_at": "2026-11-23 03:51"
     },
     {
-      "id": "T01vb4Odi_A",
-      "platform": "youtube",
-      "type": "video",
-      "title": "GOODBYE ⚡ | 5 Fingers + Gyroscope | PUBG MOBILE Montage",
-      "thumbnail": "https://i.ytimg.com/vi/T01vb4Odi_A/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/T01vb4Odi_A?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-22 18:33"
-    },
-    {
       "id": "VEBAZZp4VuM",
       "platform": "youtube",
       "type": "video",
@@ -148,6 +148,60 @@
   ],
   "shorts": [
     {
+      "id": "IBD012sNBDo",
+      "platform": "youtube",
+      "type": "short",
+      "title": "HABIBI🐪🔥 | Habibi Slowed Reverb | pubg montage edit | pubg WhatsApp status | pubg status |",
+      "thumbnail": "https://i.ytimg.com/vi/IBD012sNBDo/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/IBD012sNBDo?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "bdFuAXURuSc",
+      "platform": "youtube",
+      "type": "short",
+      "title": "3 2 1 BANG | PUBG Mobile Best Editing",
+      "thumbnail": "https://i.ytimg.com/vi/bdFuAXURuSc/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/bdFuAXURuSc?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "96OHI4R9pm8",
+      "platform": "youtube",
+      "type": "short",
+      "title": "PUBG MOBILE | Core Circle Mode Clip Highlights #Shorts",
+      "thumbnail": "https://i.ytimg.com/vi/96OHI4R9pm8/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/96OHI4R9pm8?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "_YRCkADvAQA",
+      "platform": "youtube",
+      "type": "short",
+      "title": "EDIT VIDEO ❤️‍🔥😍 PUBG MOBILE ❤️ | Harsh Nain yet | 4K video LOBBY EDIT 💕",
+      "thumbnail": "https://i.ytimg.com/vi/_YRCkADvAQA/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/_YRCkADvAQA?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "xSJaoMHglmI",
+      "platform": "youtube",
+      "type": "short",
+      "title": "PUBG MOBILE | BLODD HUNT DUEL EVENT BEGIN",
+      "thumbnail": "https://i.ytimg.com/vi/xSJaoMHglmI/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/xSJaoMHglmI?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
+      "id": "lm47T73ARgI",
+      "platform": "youtube",
+      "type": "short",
+      "title": "KEEP UP - TOJI Jujutsu kaisen S2 - [AMV/Edit] 4K",
+      "thumbnail": "https://i.ytimg.com/vi/lm47T73ARgI/hqdefault.jpg",
+      "embed_url": "https://www.youtube.com/embed/lm47T73ARgI?autoplay=1&rel=0&modestbranding=1",
+      "added_at": "2026-11-23 18:46"
+    },
+    {
       "id": "rFQoI9bQstI",
       "platform": "youtube",
       "type": "short",
@@ -166,39 +220,12 @@
       "added_at": "2026-11-23 15:54"
     },
     {
-      "id": "IBD012sNBDo",
-      "platform": "youtube",
-      "type": "short",
-      "title": "HABIBI🐪🔥 | Habibi Slowed Reverb | pubg montage edit | pubg WhatsApp status | pubg status |",
-      "thumbnail": "https://i.ytimg.com/vi/IBD012sNBDo/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/IBD012sNBDo?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
-    },
-    {
-      "id": "bdFuAXURuSc",
-      "platform": "youtube",
-      "type": "short",
-      "title": "3 2 1 BANG | PUBG Mobile Best Editing",
-      "thumbnail": "https://i.ytimg.com/vi/bdFuAXURuSc/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/bdFuAXURuSc?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
-    },
-    {
       "id": "Hy3pokXJcOs",
       "platform": "youtube",
       "type": "short",
       "title": "PUBG MOBILE | Fight with Spider-Man™ Powers",
       "thumbnail": "https://i.ytimg.com/vi/Hy3pokXJcOs/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/Hy3pokXJcOs?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
-    },
-    {
-      "id": "_YRCkADvAQA",
-      "platform": "youtube",
-      "type": "short",
-      "title": "EDIT VIDEO ❤️‍🔥😍 PUBG MOBILE ❤️ | Harsh Nain yet | 4K video LOBBY EDIT 💕",
-      "thumbnail": "https://i.ytimg.com/vi/_YRCkADvAQA/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/_YRCkADvAQA?autoplay=1&rel=0&modestbranding=1",
       "added_at": "2026-11-23 15:54"
     },
     {
@@ -209,33 +236,6 @@
       "thumbnail": "https://i.ytimg.com/vi/eW8jmH116wM/hqdefault.jpg",
       "embed_url": "https://www.youtube.com/embed/eW8jmH116wM?autoplay=1&rel=0&modestbranding=1",
       "added_at": "2026-11-23 15:54"
-    },
-    {
-      "id": "lm47T73ARgI",
-      "platform": "youtube",
-      "type": "short",
-      "title": "KEEP UP - TOJI Jujutsu kaisen S2 - [AMV/Edit] 4K",
-      "thumbnail": "https://i.ytimg.com/vi/lm47T73ARgI/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/lm47T73ARgI?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 15:54"
-    },
-    {
-      "id": "96OHI4R9pm8",
-      "platform": "youtube",
-      "type": "short",
-      "title": "PUBG MOBILE | Core Circle Mode Clip Highlights #Shorts",
-      "thumbnail": "https://i.ytimg.com/vi/96OHI4R9pm8/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/96OHI4R9pm8?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 12:56"
-    },
-    {
-      "id": "xSJaoMHglmI",
-      "platform": "youtube",
-      "type": "short",
-      "title": "PUBG MOBILE | BLODD HUNT DUEL EVENT BEGIN",
-      "thumbnail": "https://i.ytimg.com/vi/xSJaoMHglmI/hqdefault.jpg",
-      "embed_url": "https://www.youtube.com/embed/xSJaoMHglmI?autoplay=1&rel=0&modestbranding=1",
-      "added_at": "2026-11-23 12:56"
     },
     {
       "id": "zI_Tw_rDjNM",
